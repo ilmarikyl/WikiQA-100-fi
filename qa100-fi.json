@@ -1,0 +1,1795 @@
+{
+    "version": "1.0",
+    "data": [
+        {
+            "title": "Ahantat",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä kieltä ahantat puhuvat?",
+                            "id": "xaji0y6dpb",
+                            "answers": [
+                                {
+                                    "text": "akaninkielinen",
+                                    "answer_start": 13
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ahantat ovat akaninkielinen kansa Ghanassa. He asuvat Guineanlahden rannalla Ankobrajoen ja Sekondi-Takoradin välisellä alueella. Ahantoja on 40 000 henkeä. Ahantat kuuluvat anjeihin. Heille läheisimmät ryhmät ovat nzemat ja evaluet. Fantet ovat vaikuttaneet heihin voimakkaasti. Ennen siirtomaa-aikaa ahantat muodostivat päällikkökunnan, joka vuosina 1745–1826 kuului Ašantin liittokuntaan."
+                }
+            ]
+        },
+        {
+            "title": "Ahantat",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitkä ovat ahantien tärkeimmät viljelykasvit?",
+                            "id": "hsahxthv3a",
+                            "answers": [
+                                {
+                                    "text": "banaanit, jamssi, taaro, maapähkinä, maissi, riisi ja öljypalmu",
+                                    "answer_start": 81
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mitkä ovat yleisimmät uskonnot ahantien keskuudessa?",
+                            "id": "3zmf8mdd4v",
+                            "answers": [
+                                {
+                                    "text": "katolisia tai protestantteja",
+                                    "answer_start": 648
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kansan pääelinkeinot ovat maanviljely ja kalastus. Tärkeimmät viljelykasvit ovat banaanit, jamssi, taaro, maapähkinä, maissi, riisi ja öljypalmu. Lisäksi harjoitetaan käsityöammatteja ja tuotetaan merivedestä suolaa. Ruokavalio koostuu kalasta ja kasviksista. Asumuksena toimii puusta ja savesta rakennettu harjakattoinen talo. Perinteistä kenteasua käytetään vain juhlissa. Perinteinen yhteiskunta perustuu suurperheiden muodostamiin kyläyhteisöihin, matrilineaarisiin sukuihin, patrilineaarisiin ryhmiin ja soturilaitokseen. Avioliitto on virilokaalinen. Polygynia, leviraatti, sororaatti ja ostoavioliitto ovat yleisiä. Suurin osa ahantoista on katolisia tai protestantteja. Osa harjoittaa perinteistä uskontoa, johon kuuluu esi-isien palvontaa, noituutta ja taikuutta."
+                }
+            ]
+        },
+        {
+            "title": "Ahantat",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka paljon ahantoja on?",
+                            "id": "30t9nt3w5u",
+                            "answers": [
+                                {
+                                    "text": "40 000 henkeä",
+                                    "answer_start": 142
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Ahantat ovat akaninkielinen kansa Ghanassa. He asuvat Guineanlahden rannalla Ankobrajoen ja Sekondi-Takoradin välisellä alueella. Ahantoja on 40 000 henkeä. Ahantat kuuluvat anjeihin. Heille läheisimmät ryhmät ovat nzemat ja evaluet. Fantet ovat vaikuttaneet heihin voimakkaasti. Ennen siirtomaa-aikaa ahantat muodostivat päällikkökunnan, joka vuosina 1745–1826 kuului Ašantin liittokuntaan."
+                }
+            ]
+        },
+        {
+            "title": "Aristoteles",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miksi metafysiikka oli Aristoteleen mielestä kaikkein korkein tiede?",
+                            "id": "zbikcidkwn",
+                            "answers": [
+                                {
+                                    "text": "se pyrki lähestymään jumalallista tietämystä maailman toiminnan syistä ja perusteista eli niistä asioista, jotka tulevat fysiikan eli luonnontieteiden (fysika) jälkeen (meta)",
+                                    "answer_start": 115
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Metafysiikka oli Aristoteleen mielestä \"ensimmäinen filosofia\" (prōtē filosofia) eli kaikkein korkein tiede, koska se pyrki lähestymään jumalallista tietämystä maailman toiminnan syistä ja perusteista eli niistä asioista, jotka tulevat fysiikan eli luonnontieteiden (fysika) jälkeen (meta).[25] Tällaista tietoa ei hänen mielestään etsitty jonkin muun hyödyn vuoksi, vaan pelkästään sen itsensä takia, ainoana vapaana tiedon lajina, joka ei ole riippuvainen mistään muusta tiedosta."
+                }
+            ]
+        },
+        {
+            "title": "Auto",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miten suuret amerikkalaiset autot soveltuivat sodan runtelemille eurooppalaisille maanteille?",
+                            "id": "nhj7xvg0fn",
+                            "answers": [
+                                {
+                                    "text": "huonosti",
+                                    "answer_start": 577
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tyypillinen yhdysvaltalainen auto oli 1940-luvun lopulla ja 1950-luvulla noin viisi metriä pitkä, se oli varustettu 6- tai 8-sylinterisellä moottorilla, jonka teho oli 80–100 hevosvoimaa, ja useimmiten automaattivaihteistolla. Tyypillinen sodanjälkeinen eurooppalainen auto taas oli noin neljä metriä pitkä, sen rakenne ja tekniikka olivat peräisin sotaa edeltäneeltä ajalta, ja ulkonäöltään se oli vain hieman modernisoitu versio 1930-luvun malleista tai amerikkalaisen auton kopio. Suuret amerikkalaiset autot pehmeine jousituksineen ja automaattivaihteistoineen soveltuivat huonosti sodan runtelemille tai muutoin kehnoille eurooppalaisille maanteille."
+                }
+            ]
+        },
+        {
+            "title": "Auto",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka paljon Suomesta löytyy maailman mittakaavassa harvinaisia autoja?",
+                            "id": "9xuy41iblj",
+                            "answers": [
+                                {
+                                    "text": "runsaastikin",
+                                    "answer_start": 428
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Keskimääräinen auton elinikä on suunnilleen 19±1 vuotta. Tavallisimmat autot kestävät juuri tämän verran, kun kalliimmat merkit pysyvät liikenteessä pitempään, mutta harva niistäkään yli 25:tä vuotta. Auton elinkaari voi päättyä myös aikaisemmin jos sen moottori niin sanotusti ajetaan loppuun. Harvinainen antiikki- tai erikoisauto saattaa osoittautua kannattavaksi sijoituskohteeksi. Maailman mittakaavassakin Suomesta löytyy runsaastikin harvinaisia autoja, viime aikoina on tuotu varsinkin harvinaisia amerikkalaisautoja jälkituontina. Muutoinkin harrasteajoneuvokulttuuri on ollut Suomessa vahvassa asemassa jo vuosikymmenien ajan."
+                }
+            ]
+        },
+        {
+            "title": "Barack Obama",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä Obama sai Yhdysvallat tekemään vuonna 2011",
+                            "id": "h75lxo6qji",
+                            "answers": [
+                                {
+                                    "text": "vetäytymään Irakista",
+                                    "answer_start": 146
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Obaman hallintokautena Yhdysvallat päätti nimellisesti ”terrorisminvastaisen sodan”, mutta Lähi-idän konflikti on jatkunut. Obama sai Yhdysvallat vetäytymään Irakista vuonna 2011, mikä antoi jalansijaa kapinallisille ja terroristeille maassa. Hän tuki kapinallisia Syyrian ja Libyan sisällissodissa. Obama onnistui kaatamaan Muammar Gaddafin hallinnon Libyassa, mutta sota Syyriassa on jatkunut. Yhdysvaltain joukot tappoivat Osama bin Ladenin Pakistanissa vuonna 2011, mitä pidetään yhtenä Obaman suurimmista saavutuksista."
+                }
+            ]
+        },
+        {
+            "title": "Bentsokaiini",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miten bentsokaiini vaikuttaa?",
+                            "id": "ujv6oh9sdb",
+                            "answers": [
+                                {
+                                    "text": "sitoutumalla elimistön natriumkanaviin",
+                                    "answer_start": 308
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Huoneenlämpötilassa bentsokaiini on valkoista kiinteää ainetta. Yhdiste liukenee vain vähän veteen ja paremmin kuumaan kuin kylmään veteen. Se liukenee orgaanisiin liuottimiin kuten etanoliin, kloroformiin ja dietyylieetteriin. Myös happojen laimeat liuokset liuottavat bentsokaiinia. Bentsokaiini vaikuttaa sitoutumalla elimistön natriumkanaviin ja estää täten hermosolujen depolarisaation. Tämä estää hermoimpulssien kulun ja siten kipuaistimuksen. Bentsokaiini stabiloi myös solukalvoja."
+                }
+            ]
+        },
+        {
+            "title": "Brittiläinen imperiumi",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miksi siirtolaiset pystyivät perustamaan suuria maatiloja pienin kustannuksin?",
+                            "id": "dw2pcn9t84",
+                            "answers": [
+                                {
+                                    "text": "Koska maa oli siirtomaissa halpaa",
+                                    "answer_start": 402
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mitä britit rakensivat siirtomaihin?",
+                            "id": "azytjxepq8",
+                            "answers": [
+                                {
+                                    "text": "satamia, maanteitä, rautateitä ja kanaaleja",
+                                    "answer_start": 99
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Parantaakseen kulkuyhteyksiä siirtomaissaan britit rakensivat niihin tarvittavan infrastruktuurin: satamia, maanteitä, rautateitä ja kanaaleja. Kulkuyhteyksiä hyödynnettiin raaka-aineiden kuljettamiseen sisämaasta rannikolle ja sitä kautta emämaahan, brittiläisten tuotteiden kuljettamiseen siirtomaiden sisäosiin, sotilaiden kuljetuksiin, sekä sisämaan kaivosten ja plantaasien omistajien tarpeisiin. Koska maa oli siirtomaissa halpaa, siirtolaiset saattoivat perustaa suuria maatiloja pienin kustannuksin. Teollisuutta britit eivät siirtomaihinsa juurikaan perustaneet"
+                }
+            ]
+        },
+        {
+            "title": "Burj Khalifa",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkä maalaisen yrityksen piti alun perin toimittaa rakennukseen elementit?",
+                            "id": "5jsg65kxvf",
+                            "answers": [
+                                {
+                                    "text": "sveitsiläinen",
+                                    "answer_start": 322
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mitä rakennuksen perustuksista löydettiin 2006?",
+                            "id": "1t2tala753",
+                            "answers": [
+                                {
+                                    "text": "pieniä murtumia",
+                                    "answer_start": 82
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "7. tammikuuta 2007 pilvenpiirtäjän virallisten sivujen mukaan insinöörit löysivät pieniä murtumia pilvenpiirtäjän perustuksista.[15] Murtumia ei kuitenkaan katsottu vakaviksi, joten rakennustöitä ei keskeytetty. Rakennuksen lasielementtien suhteen oli pitkään epävarmuutta ja niiden kiinnitys viivästyi kuukausilla, sillä sveitsiläinen Schmidlin Ltd Facade Technology, alkuperäinen yritys jonka piti toimittaa elementit rakennukseen, meni konkurssiin helmikuussa 2006. Lopulliset lasielementit toimitti kiinalainen yritys."
+                }
+            ]
+        },
+        {
+            "title": "Burj Khalifa",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Milloin tornin rakentaminen aloitettiin?",
+                            "id": "lc58drc11e",
+                            "answers": [
+                                {
+                                    "text": "21. syyskuuta 2004",
+                                    "answer_start": 274
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Milloin Burj Khalifan avajaiset olivat?",
+                            "id": "rtj5pht0hl",
+                            "answers": [
+                                {
+                                    "text": "4. tammikuuta 2010.",
+                                    "answer_start": 321
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Missä Burj Khalifa sijaitsee?",
+                            "id": "9xpseimvih",
+                            "answers": [
+                                {
+                                    "text": "Dubaissa Arabiemiirikunnissa",
+                                    "answer_start": 140
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuinka korkea torni on?",
+                            "id": "7ur23gdppq",
+                            "answers": [
+                                {
+                                    "text": "828 metriä",
+                                    "answer_start": 180
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Burj Khalifa ibn Zayid (arab. برج خليفة بن زايد‎ eli Khalifa ibn Zayidin torni, aikaisemmin Burj Dubai, arab. برج دبي‎‎ eli Dubai-torni) on Dubaissa Arabiemiirikunnissa sijaitseva 828 metriä korkea pilvenpiirtäjä, joka on maailman korkein rakennus. Rakennustyöt aloitettiin 21. syyskuuta 2004. Tornin avajaiset pidettiin 4. tammikuuta 2010."
+                }
+            ]
+        },
+        {
+            "title": "Burj Khalifa",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkä toisen rakennuksen Skidmore, Owings ja Merrill ovat suunnitelleet?",
+                            "id": "cwi64ciyhe",
+                            "answers": [
+                                {
+                                    "text": "One World Trade Center",
+                                    "answer_start": 257
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuka on suunnitellut Jin Mao Towerin?",
+                            "id": "0y9dom5igq",
+                            "answers": [
+                                {
+                                    "text": "Adrian Smith",
+                                    "answer_start": 327
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tornin on suunnitellut tunnettu yhdysvaltalainen arkkitehtitoimisto Skidmore, Owings and Merrill, jonka suunnittelema on myös New Yorkin syyskuun 11. päivän terrori-iskuissa tuhoutuneiden World Trade Centereiden tilalle tuleva 541 metrin korkeuteen nouseva One World Trade Center. Burj Dubain pääarkkitehti on yhdysvaltalainen Adrian Smith, joka on suunnitellut mm. Kiinan Shanghaissa sijaitsevan Jin Mao Towerin sekä useita muita merkittäviä pilvenpiirtäjiä ympäri maailman."
+                }
+            ]
+        },
+        {
+            "title": "Burj Khalifa",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä Schmidlin Ltd Facade Technologylle tapahtui helmikussa 2006?",
+                            "id": "pki7p5tb94",
+                            "answers": [
+                                {
+                                    "text": "meni konkurssiin",
+                                    "answer_start": 434
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "7. tammikuuta 2007 pilvenpiirtäjän virallisten sivujen mukaan insinöörit löysivät pieniä murtumia pilvenpiirtäjän perustuksista.[15] Murtumia ei kuitenkaan katsottu vakaviksi, joten rakennustöitä ei keskeytetty. Rakennuksen lasielementtien suhteen oli pitkään epävarmuutta ja niiden kiinnitys viivästyi kuukausilla, sillä sveitsiläinen Schmidlin Ltd Facade Technology, alkuperäinen yritys jonka piti toimittaa elementit rakennukseen, meni konkurssiin helmikuussa 2006. Lopulliset lasielementit toimitti kiinalainen yritys."
+                }
+            ]
+        },
+        {
+            "title": "Carl Weathers",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkä maalainen Weathers on?",
+                            "id": "874frhocn9",
+                            "answers": [
+                                {
+                                    "text": "yhdysvaltalainen",
+                                    "answer_start": 65
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Carl Weathers (s. 14. tammikuuta 1948 New Orleans, Louisiana) on yhdysvaltalainen elokuvanäyttelijä. Weathers tunnetaan parhaiten roolistaan Apollo Creedinä Rocky-elokuvissa. Muita sivurooleja hänellä on ollut muun muassa elokuvissa Predator – saalistaja, Happy Gilmore – ammattilainen, Navaronen haukat ja Kuoleman ajojahti. Weathers näytteli pääosaa toimintaelokuvissa Action Jackson – ässä hihassa ja Texasin hurrikaani."
+                }
+            ]
+        },
+        {
+            "title": "Dirceu",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka monta kertaa Dirceu edusti maataan MM-tasolla?",
+                            "id": "j2qp89uzfk",
+                            "answers": [
+                                {
+                                    "text": "kolmasti",
+                                    "answer_start": 113
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Dirceu pelasi Brasilian maajoukkueessa yhteensä 44 kertaa tehden seitsemän maalia. Hän edusti maataan MM-tasolla kolmasti. Paras saavutus oli Argentiinan kisoissa vuonna 1978 voitettu pronssimitali. Dirceu maalasi turnauksessa kolmasti ja hänet valittiin kisojen tähdistöjoukkueeseen. Hänet valittiin alun pitäen myös vuoden 1986 kisoihin Meksikossa, mutta loukkaantuminen esti osallistumisen lopputurnaukseen."
+                }
+            ]
+        },
+        {
+            "title": "Espoon kartanon Sågbron silta",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miksi Ramsay vaati oman maksuosuutensa pienentämistä?",
+                            "id": "8ut0cvs4f8",
+                            "answers": [
+                                {
+                                    "text": "koska hän oli rakennuttanut omin varoin korjausta kaipaamattoman kivisillan",
+                                    "answer_start": 492
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kivisiltojen rakentaminen aloitettiin vuonna 1775. Kustaa III ulotti eerikinretkensä Suomeen asti ja oli läsnä tilaisuudessa, jossa kartanon silloinen omistaja Anders Henrik Ramsay laski kivisillan peruskiven. Kyseessä oli todennäköisesti Qvarnbro, joka valmistui vuoden 1778 tammikuussa. 1700-luvulla teiden ja siltojen rakentamisvelvollisuus kuului pitäjäläisille, kullekin omistamansa maan määrän mukaan jaettuna. Vuoden 1778 talvikäräjillä Ramsay vaati oman maksuosuutensa pienentämistä, koska hän oli rakennuttanut omin varoin korjausta kaipaamattoman kivisillan. Kartano maksoi myöhemmin myös toisen kivisillan rakentamisen."
+                }
+            ]
+        },
+        {
+            "title": "Espoon kaupunginarkisto",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mistä vuodesta saakka arkistossa on säilytetty kuntakokouksen pöytäkirjoja?",
+                            "id": "cgvyie6ivw",
+                            "answers": [
+                                {
+                                    "text": "1868",
+                                    "answer_start": 367
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Espoon kaupunginarkisto on Espoon kaupungin konsernipalveluyksikkönä toimiva kunnallinen arkisto joka toimii myös kotiseutuarkistona. Vuosien 1865 ja 1873 kunnallisasetuksissa luotiin nykyisenkaltaiset kunnat. Maaseudulla kunnan hallintoelin oli kuntakokouksen asettama kunnallislautakunta. Espoon kaupunginarkistossa säilytetään kuntakokouksen pöytäkirjoja vuodesta 1868 alkaen"
+                }
+            ]
+        },
+        {
+            "title": "Etelä-Sudanin sisällissota",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mikä tapahtuma aloitti sodan vuonna 2013?",
+                            "id": "pvs7hzioyk",
+                            "answers": [
+                                {
+                                    "text": "presidentti Salva Kiir Mayardit syytti varapresidentti Riek Macharia ja kymmentä muuta vallankaappausyrityksestä",
+                                    "answer_start": 33
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Ketkä olivat taisteluiden osapuolina aluksi?",
+                            "id": "55nf4zw9xa",
+                            "answers": [
+                                {
+                                    "text": "Sudanin kansan vapautusliikkeen ja hallituksen välillä",
+                                    "answer_start": 255
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Minkä järjestön rauhanturvaajia alueelle tuli vuonna 2014?",
+                            "id": "3kx7eedtjv",
+                            "answers": [
+                                {
+                                    "text": "YK:n",
+                                    "answer_start": 412
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Sota alkoi joulukuussa 2013, kun presidentti Salva Kiir Mayardit syytti varapresidentti Riek Macharia ja kymmentä muuta vallankaappausyrityksestä. Machar kielsi yrittäneensä vallankaappausta ja loikkasi SPLM-IO-liikkeen johtoon. Taistelut alkoivat aluksi Sudanin kansan vapautusliikkeen ja hallituksen välillä. Ugandalaisia joukkoja osallistui taisteluihin Etelä-Sudanin hallituksen puolelle sodan alettua. Myös YK:n rauhanturvaajia tuli alueelle vuonna 2014."
+                }
+            ]
+        },
+        {
+            "title": "Etelä-Sudanin sisällissota",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mikä arvio esitettiin syyskuussa 2018?",
+                            "id": "l1cq99chj7",
+                            "answers": [
+                                {
+                                    "text": "että sodassa on kuollut ainakin 383 000 ihmistä",
+                                    "answer_start": 100
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Etelä-Sudan ja sitä vastaan kapinoivat ovat solmineet useita aselepoja. Syyskuussa 2018 arvioitiin, että sodassa on kuollut ainakin 383 000 ihmistä. Syyskuussa 2018 Etelä-Sudanin presidentti Salva Kiir ja kapinallisjohtaja Riek Machar allekirjoittivat historiallisen rauhansopimuksen Etiopiassa. Sopimus päätti virallisesti Etelä-Sudania viisi vuotta vaivanneen sisällissodan, joka oli vaatinut yli 300 000 kuolonuhria ja oli ajanut yli 3,5 miljoonaa ihmistä kodeistaan."
+                }
+            ]
+        },
+        {
+            "title": "Etelä-Sudanin sisällissota",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka monta kuolonuhria sodassa oli ollut?",
+                            "id": "zhwjr64dpj",
+                            "answers": [
+                                {
+                                    "text": "300 000",
+                                    "answer_start": 399
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuka on Etelä-Sudanin presidentti?",
+                            "id": "a1wj0tpac5",
+                            "answers": [
+                                {
+                                    "text": "Salva Kiir",
+                                    "answer_start": 191
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Etelä-Sudan ja sitä vastaan kapinoivat ovat solmineet useita aselepoja. Syyskuussa 2018 arvioitiin, että sodassa on kuollut ainakin 383 000 ihmistä. Syyskuussa 2018 Etelä-Sudanin presidentti Salva Kiir ja kapinallisjohtaja Riek Machar allekirjoittivat historiallisen rauhansopimuksen Etiopiassa. Sopimus päätti virallisesti Etelä-Sudania viisi vuotta vaivanneen sisällissodan, joka oli vaatinut yli 300 000 kuolonuhria ja oli ajanut yli 3,5 miljoonaa ihmistä kodeistaan."
+                }
+            ]
+        },
+        {
+            "title": "Folksonomia",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkälaista sisältöä käyttäjät voivat luokitella folksonomian avulla?",
+                            "id": "6t4ufel624",
+                            "answers": [
+                                {
+                                    "text": "www-sivuja, valokuvia ja linkkejä",
+                                    "answer_start": 155
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Folksonomia (engl. folksonomy) on yhteisöllisesti tuotettu, avoin luokittelujärjestelmä, jonka avulla internet-käyttäjät voivat luokitella sisältöä, kuten www-sivuja, valokuvia ja linkkejä. Etymologisesti folksonomia on peräisin sanojen \"folk\" (suom. väki) ja \"taxonomy\" (suom. taksonomia) leikkimielisestä yhdistelmästä."
+                }
+            ]
+        },
+        {
+            "title": "Helsinki International Horse Show",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä oheisohjelmaan sisältyy?",
+                            "id": "6hid25owf7",
+                            "answers": [
+                                {
+                                    "text": "muun muassa muiden ratsastuslajien esittelyjä sekä hevosaiheisia shownäytöksiä",
+                                    "answer_start": 575
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Missä kuussa Helsinki International Horse Show järjestetään?",
+                            "id": "5935a0l725",
+                            "answers": [
+                                {
+                                    "text": "lokakuussa",
+                                    "answer_start": 92
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Helsinki International Horse Show (lyhyemmin Horse Show tai HIHS) on Helsingissä vuosittain lokakuussa järjestettävä kansainvälinen ratsastuskilpailu ja Suomen suurin vuosittainen sisäurheilutapahtuma muun muassa kävijämäärän ja jaettavan palkintorahan perusteella. Tapahtuman pääpaino on esteratsastuksen Länsi-Euroopan liigan World Cup -osakilpailussa. Tapahtumassa järjestetään myös kansainvälisiä kouluratsastusluokkia sekä kansallisia nuorten ratsastajien ja nuorten hevosten luokkia. Tapahtuman eri yleisönäytöksissä on myös runsaslukuinen oheisohjelma, johon sisältyy muun muassa muiden ratsastuslajien esittelyjä sekä hevosaiheisia shownäytöksiä."
+                }
+            ]
+        },
+        {
+            "title": "Helsinki International Horse Show",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Milloin Show järjestettiin ensimmäisen kerran?",
+                            "id": "3j2d54i3qk",
+                            "answers": [
+                                {
+                                    "text": "1985",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Helsinki International Horse Show on järjestetty vuosittain vuodesta 1985 alkaen. Vuosina 1985–1996 tapahtuma järjestettiin Messukeskuksessa, vuosina 1997–2013 tapahtuma käytiin Hartwall-areenalla. Vuodesta 2014 alkaen tapahtuma on järjestetty Helsingin Jäähallilla. Vuodesta 1986 lähtien Helsinki International Horse Showssa on pidetty esteratsastuksen World Cup (maailmancup) -osakilpailu. Maailmancupin finaali järjestettiin Helsingissä vuonna 1998. Helsingin osakilpailu on esteratsastuksen maailmancupin pohjoisin osakilpailu."
+                }
+            ]
+        },
+        {
+            "title": "Helsinki International Horse Show",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Missä finaalit järjestetään?",
+                            "id": "2iagl58kxo",
+                            "answers": [
+                                {
+                                    "text": "Helsingin",
+                                    "answer_start": 743
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mikä on messualueen nimi?",
+                            "id": "9t7e8g8jdp",
+                            "answers": [
+                                {
+                                    "text": "Horse Expo",
+                                    "answer_start": 226
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Helsinki International Horse Show kestää nykyisin keskiviikosta sunnuntaihin, joskin tärkeät kansainväliset luokat käynnistyvät vasta perjantaina. Kilpailuluokkien ja näytösten ohella kävijöitä kiinnostaa myös laaja messualue Horse Expo, josta voi muun muassa ostaa hevostarvikkeita ja ratsastusvarusteita. Suosituin kansallisista luokista lienee Amateur Tour, jossa kilpailee useita nuoria suomalaisia tulevaisuuden tähtiä. Amateur Tour -finaali onkin usean nuoren ratsastajan kilpailukauden päätavoite. Osallistuakseen Amateur Tourin finaaliin, ratsukolla on oltava neljä virhepisteetöntä karsintakilpailutulosta, vähintään oman kategorian tasolta samalla hevosella, jotta pääsee Ypäjän semifinaaleihin ja sieltä 12 parasta pääsee jatkamaan Helsingin finaaleihin."
+                }
+            ]
+        },
+        {
+            "title": "Jalkapallon Mestaruussarjan kausi 1976",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Missä pelattiin Haka-Reipas -ottelu 16.kesäkuuta?",
+                            "id": "0lvsnujza7",
+                            "answers": [
+                                {
+                                    "text": "Valkeakoskella Tehtaan kentällä",
+                                    "answer_start": 364
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuinka monta maalia Maati Paatelainen teki kaudella 1976?",
+                            "id": "tz0yncxll4",
+                            "answers": [
+                                {
+                                    "text": "17",
+                                    "answer_start": 78
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Mestaruussarjan maalikuninkuuden kaudella 1976 voitti Hakan Matti Paatelainen 17 maalilla. Palloliitto valitsi vuoden 1976 jalkapalloilijaksi Mestaruussarjassa pelanneen VPS:n puolustaja Ari Mäkysen. Mestaruussarjan yleisömäärä kaudella 1976 oli yhteensä 257 085 henkeä eli keskimäärin 1 948 katsojaa ottelua kohti. Kauden suurin yleisömäärä nähtiin 16. kesäkuuta Valkeakoskella Tehtaan kentällä pelatussa ottelussa Haka–Reipas, kun ottelua saapui seuraamaan 4 664 katsojaa."
+                }
+            ]
+        },
+        {
+            "title": "Janitsaarit",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä sulttaani Mahmud II teki alettuaan pelätä janitsaarien liian suurta valtaa?",
+                            "id": "zklookep7y",
+                            "answers": [
+                                {
+                                    "text": "teloitutti nämä",
+                                    "answer_start": 306
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Janitsaarien sotilaallinen alamäki alkoi 1500-luvulla, kun he saivat luvan mennä naimisiin ja ottaa muita töitä. Janitsaarit alkoivat ajaa valtakunnan sijasta omia etujaan ja he osallistuivat useaan kapinaan ja vallankumoukseen. Lopulta sulttaani Mahmud II alkoi pelätä janitsaarien liian suurta valtaa ja teloitutti nämä vuonna 1826"
+                }
+            ]
+        },
+        {
+            "title": "Jay McInerney",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Milloin McInerneyn esikoisromaani julkaistiin?",
+                            "id": "6wktakpuxq",
+                            "answers": [
+                                {
+                                    "text": "1984",
+                                    "answer_start": 151
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Keiden kanssa McInerney muodosti niin sanotun Brat Packin?",
+                            "id": "phr62gdswm",
+                            "answers": [
+                                {
+                                    "text": "Bret Easton Ellisin ja Tama Janowitzin",
+                                    "answer_start": 349
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "John Barrett McInerney Jr. (s. 13. tammikuuta 1955 Hartford, Connecticut) on yhdysvaltalainen kirjailija. McInerney saavutti laajaa suosiota jo vuoden 1984 esikoisromaanillaan Manhattanin valot, kriittisellä kuvauksella Reaganin aikaisen New Yorkin pintaliitäjien sosiaalisesta elämästä. Kirja filmatisoitiin vuonna 1988. McInerney muodosti yhdessä Bret Easton Ellisin ja Tama Janowitzin kanssa niin sanotun Brat Packin, Manhattanilla asuvan ja sen ihmisistä minimalistiseen tyyliin kirjoittavan kirjallisen viiteryhmän."
+                }
+            ]
+        },
+        {
+            "title": "Jean Sibelius",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka mones sinfonia valmistui vuonna 1924?",
+                            "id": "31yihair4c",
+                            "answers": [
+                                {
+                                    "text": "seitsemäs",
+                                    "answer_start": 413
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Milloin on Sibeliuksen syntymäpäivä?",
+                            "id": "owgzrixa11",
+                            "answers": [
+                                {
+                                    "text": "8. joulukuuta",
+                                    "answer_start": 530
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Sibeliuksen keskeisimmät teokset ovat hänen seitsemän sinfoniaansa. Sinfonioiden lisäksi hänen tunnetuimmat teoksensa ovat viulukonsertto sekä orkesteriteokset Finlandia, Karelia-sarja, Tuonelan joutsen (osa Lemminkäis-sarjaa) ja Valse triste. Hänen muihin teoksiinsa kuuluu muun muassa vokaali-, kuoro- ja pianomusiikkia, näytelmämusiikkia ja kamarimusiikkia. Sibeliuksen viimeiset suurimuotoiset teokset olivat seitsemäs sinfonia (1924), näyttämöteos Myrsky (1926) ja sävelruno Tapiola (1926). Suomessa Sibeliuksen syntymäpäivä 8. joulukuuta on liputuspäivä, suomalaisen musiikin päivä."
+                }
+            ]
+        },
+        {
+            "title": "Jerdoninpalmunäätä",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkä maalainen eläin jordeninpalmunäätä on?",
+                            "id": "dpg8sbi4q2",
+                            "answers": [
+                                {
+                                    "text": "intialainen",
+                                    "answer_start": 44
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Miksi laji on tärkeä sademetsien monimuotoisuudelle?",
+                            "id": "y9v86wzs3t",
+                            "answers": [
+                                {
+                                    "text": "koska se levittää syömiensä marjojen ja hedelmien siemeniä",
+                                    "answer_start": 429
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Jerdoninpalmunäätä (Paradoxurus jerdoni) on intialainen sivettieläin. Sitä on tavattu vain Länsi-Ghatien vuoristossa, mutta koska se on metsässä elävä yöeläin, sen elintavoista ja levinneisyydestä tiedetään varsin vähän. Lajin suomenkieliseksi nimeksi on ehdotettu intianmusankia. Jerdoninpalmunäätä syö marjoja ja hedelmiä, näiden puutteessa myös pieniä ötököitä. Se on tärkeä laji Länsi-Ghatien sademetsien monimuotoisuudelle, koska se levittää syömiensä marjojen ja hedelmien siemeniä."
+                }
+            ]
+        },
+        {
+            "title": "Jerdoninpalmunäätä",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä laji ensisijaisesti syö?",
+                            "id": "60rjiw1swj",
+                            "answers": [
+                                {
+                                    "text": "marjoja ja hedelmiä",
+                                    "answer_start": 304
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Jerdoninpalmunäätä (Paradoxurus jerdoni) on intialainen sivettieläin. Sitä on tavattu vain Länsi-Ghatien vuoristossa, mutta koska se on metsässä elävä yöeläin, sen elintavoista ja levinneisyydestä tiedetään varsin vähän. Lajin suomenkieliseksi nimeksi on ehdotettu intianmusankia. Jerdoninpalmunäätä syö marjoja ja hedelmiä, näiden puutteessa myös pieniä ötököitä. Se on tärkeä laji Länsi-Ghatien sademetsien monimuotoisuudelle, koska se levittää syömiensä marjojen ja hedelmien siemeniä."
+                }
+            ]
+        },
+        {
+            "title": "Joe Biden",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka pahasti Beau ja Hunter loukkaantuivat?",
+                            "id": "ckjlteiyzc",
+                            "answers": [
+                                {
+                                    "text": "vakavasti",
+                                    "answer_start": 274
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Biden on ollut kaksi kertaa naimisissa. Hän meni vuonna 1966 naimisiin Neilia Hunterin kanssa. Pari sai kolme lasta: Beaun, Hunterin ja Naomin. Neilia ja Naomi kuolivat auto-onnettomuudessa pian Bidenin senaattiin valinnan jälkeen vuonna 1972. Beau ja Hunter loukkaantuivat vakavasti mutta toipuivat. Beau Bidenista tuli tunnettu juristi ja poliitikko. Hän kuoli aivosyöpään vuonna 2015. Hunter Biden on asianajaja ja Eudora Global -riskipääomayhtiön perustaja, joka on myös toiminut monen yrityksen johdossa."
+                }
+            ]
+        },
+        {
+            "title": "Jordan Peterson",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä Peterson on tehny vuodesta 1998 asti?",
+                            "id": "otohp6vz41",
+                            "answers": [
+                                {
+                                    "text": "toiminut psykologian professorina Toronton yliopistossa",
+                                    "answer_start": 372
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Petersonilla on isänsä puolelta norjalaisia sukujuuria. Hän varttui pienessä Fairview’n kaupungissa Albertassa. Peterson on opiskellut Albertan yliopistossa ja McGill-yliopistossa valtiotieteiden ja psykologian kandidaatiksi ja psykologian tohtoriksi. Hän on toiminut Harvardin yliopiston psykologian laitoksella dosenttina ja myöhemmin professorina. Vuodesta 1998 hän on toiminut psykologian professorina Toronton yliopistossa."
+                }
+            ]
+        },
+        {
+            "title": "Jousisoihtupuu",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkälaiset yksilöt eivät välttämättä kuki?",
+                            "id": "nam148p0tv",
+                            "answers": [
+                                {
+                                    "text": "Nuoret",
+                                    "answer_start": 361
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Milloin jousisoihtupuu kukkii?",
+                            "id": "hhpbmyofqe",
+                            "answers": [
+                                {
+                                    "text": "keväällä",
+                                    "answer_start": 311
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuinka korkeaksi puu yleensä kasvaa avoimilla alueilla?",
+                            "id": "waouaxeqbn",
+                            "answers": [
+                                {
+                                    "text": "8–12 metrin",
+                                    "answer_start": 50
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuinka korkeaksi puu yleensä kasvaa tiheissä metsissä?",
+                            "id": "hl1n13jcat",
+                            "answers": [
+                                {
+                                    "text": "korkeampi kuin 20–35 metriä",
+                                    "answer_start": 100
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Avoimilla alueilla jousisoihtupuu on tavallisesti 8–12 metrin korkuinen, mutta on tiheissä metsissä korkeampi kuin 20–35 metriä. Rungon halkaisija voi olla 60–80 senttimetriä. Kukinnot ovat väriltään vaaleanpunaisia ja niiden \"nielu\" on valkoinen keltaisilla raidoilla. Jousisoihtupuu kukkii suurissa kimpuissa keväällä juuri ennen uuden lehvistön puhkeamista. Nuoret yksilöt eivät välttämättä aina kuki"
+                }
+            ]
+        },
+        {
+            "title": "Kaarinuoliainen",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkälainen laji kaarinuoliainen on?",
+                            "id": "9mx2x18haf",
+                            "answers": [
+                                {
+                                    "text": "vilkas ja melko aggressiivinen",
+                                    "answer_start": 221
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Minkälaisten kalojen seuraan kaarinuoliainen ei sovi?",
+                            "id": "eyuhz1gv0e",
+                            "answers": [
+                                {
+                                    "text": "kovin rauhallisten",
+                                    "answer_start": 285
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kaarinuoliaisille sopii akvaario, jossa on hienojakoinen hiekkapohja ja paljon piilopaikkoja kasvien ja juurakoiden alla. Ne syövät luonnossa nilviäisiä ja akvaariossa kernaasti sinne eksyneet kotilot. Kaarinuoliainen on vilkas ja melko aggressiivinen laji eikä sovi seura-akvaariossa kovin rauhallisten kalojen seuraan. Kaarinuoliaisia pitäisi olla ainakin viiden yksilön parvi, jotta reviirikiistat ja aggressiot jakautuisivat tasaisesti eikä heikointa yksilöä kiusattaisi hengiltä. Kaarinuoliaista on lähes mahdotonta saada lisääntymään akvaario-olosuhteissa."
+                }
+            ]
+        },
+        {
+            "title": "Kaarinuoliainen",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkälainen akvaario kaarinuoliaisille sopii?",
+                            "id": "38daly8ozc",
+                            "answers": [
+                                {
+                                    "text": "jossa on hienojakoinen hiekkapohja ja paljon piilopaikkoja kasvien ja juurakoiden alla",
+                                    "answer_start": 34
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Miksi kaarinuoliaisia pitäisi olla vähintään viiden yksilön parvi?",
+                            "id": "ywd14ve92m",
+                            "answers": [
+                                {
+                                    "text": "jotta reviirikiistat ja aggressiot jakautuisivat tasaisesti eikä heikointa yksilöä kiusattaisi hengiltä",
+                                    "answer_start": 380
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mitä on lähes mahdoton saada lisääntymään akvaario-olosuhteissa?",
+                            "id": "pnsm43d8w3",
+                            "answers": [
+                                {
+                                    "text": "Kaarinuoliaista",
+                                    "answer_start": 485
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kaarinuoliaisille sopii akvaario, jossa on hienojakoinen hiekkapohja ja paljon piilopaikkoja kasvien ja juurakoiden alla. Ne syövät luonnossa nilviäisiä ja akvaariossa kernaasti sinne eksyneet kotilot. Kaarinuoliainen on vilkas ja melko aggressiivinen laji eikä sovi seura-akvaariossa kovin rauhallisten kalojen seuraan. Kaarinuoliaisia pitäisi olla ainakin viiden yksilön parvi, jotta reviirikiistat ja aggressiot jakautuisivat tasaisesti eikä heikointa yksilöä kiusattaisi hengiltä. Kaarinuoliaista on lähes mahdotonta saada lisääntymään akvaario-olosuhteissa."
+                }
+            ]
+        },
+        {
+            "title": "Kaasmarkun verkatehdas",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Milloin yrityksen pääoma oli 245 000 markkaa?",
+                            "id": "zp08j3trp0",
+                            "answers": [
+                                {
+                                    "text": "1910-luvun alussa",
+                                    "answer_start": 538
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kaasmarkun verkatehdas, omistaja Karlsmarks Fabriks A. B., sijaitsi Ulvilan pitäjässä, Kokemäenjoen oikeanpuoleisessa sivujoessa, Harjunpäänjoessa olevan Kaasmarkunkosken varrella. Tehdas perustettiin 1863. Se harjoitti ensin yksinomaan villankehruuta, mutta sitä laajennettiin 1875 kutomolla ja värjäyslaitoksella. Tuotteiden (kankaita, huopapeitteitä ja lankaa) valmistusarvo vuonna 1909 oli 450 000 markkaa. Työntekijöitä vuonna 1909 oli 116. Sosiaalietuina oli sairasrahasto (12 500 markkaa) sekä pieni kirjasto. Yrityksen pääoma oli 1910-luvun alussa 245 000 markkaa"
+                }
+            ]
+        },
+        {
+            "title": "Kalle Chydenius",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mikä on Kalle Chydeniuksen veljen nimi?",
+                            "id": "j43d5iqvnb",
+                            "answers": [
+                                {
+                                    "text": "Jussi Chydenius",
+                                    "answer_start": 617
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Chydenius jätti vuonna 2004 musiikkituottajan ansiotyön keskittyäkseen teatterin tekemiseen perustamassaan Akseli Ensemble -ryhmässä. Hän on työskennellyt vuodesta 2008 vakituisesti KOM-teatterissa. Teatterityön ohella Chydenius soittaa bassoa The Mama King -nimisessä rockyhtyeessä. Chydenius on myös tehnyt elokuvamusiikkia. Vuonna 2008 Chydenius oli tuottajana Kalle Aholan levylle Audio Wunderbaum. Kalle on kokeillut tehdä myös konemusiikkia ja onkin perustanut yhtyeen nimeltään Dramatic Orchestra. Kalle Chydeniuksen vanhemmat ovat säveltäjä Kaj Chydenius ja ohjaaja Kaisa Korhonen, hänen veljensä on muusikko Jussi Chydenius. Kalle ja Jussi tekivät myös yhdessä Isän kädestä-levyn nimellä Veljekset Chydenius, jossa on Kaj’n sävellyksiä."
+                }
+            ]
+        },
+        {
+            "title": "Kimi Räikkönen",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä Ferrari ilmoitti syyskuussa 2013?",
+                            "id": "4gh2m5zja8",
+                            "answers": [
+                                {
+                                    "text": "Räikkösen palaavan talliin kaksivuotisella sopimuksella",
+                                    "answer_start": 137
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kaudeksi 2012 Räikkönen palasi takaisin Formula 1 -sarjaan Lotus-tallissa, jossa hän ajoi kaksi kautta. Syyskuussa 2013 Ferrari ilmoitti Räikkösen palaavan talliin kaksivuotisella sopimuksella. Ferrari ilmoitti elokuussa 2015 Räikkösen jatkavan tallissa kaudella 2016, ja heinäkuussa 2016 Ferrari ilmoitti Räikkösen jatkavan myös kaudella 2017. Elokuussa 2017 Ferrari ilmoitti hänen ajavan vielä myös kauden 2018. Syyskuussa 2018 Räikkösen uutisoitiin siirtyvän Alfa Romeoksi nimensä vaihtavan Sauber-tallin kuljettajaksi kaksivuotisella sopimuksella. Myöhemmin Räikkönen ilmoitti jatkavansa tallissa vielä kaudella 2021."
+                }
+            ]
+        },
+        {
+            "title": "Kimi Räikkönen",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä Räikkönen teki ennen sopimuksensa julkistamista?",
+                            "id": "dzr1yxr2dh",
+                            "answers": [
+                                {
+                                    "text": "ajoi vielä kaksi testiä Sauberille",
+                                    "answer_start": 417
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Räikkönen sai mahdollisuuden todistaa taitonsa Sauber-tallille, kun hänen managerinsa Steve Robertson markkinoi suojattiaan tallipäällikkö Peter Sauberille erityislaatuisena kykynä. Syyskuussa 2000 Mugellossa järjestetyissä kolmipäiväisissä testeissä Räikkönen onnistui vakuuttamaan tallin kyvyistään, vaikka tallipäällikkö Sauber seurasikin testejä vain yhden päivän ajan. Ennen sopimuksensa julkistamista Räikkönen ajoi vielä kaksi testiä Sauberille. Räikkösen kehitys oli nopeaa, sillä hän kykeni toisena testipäivänään parantamaan aikojaan kolmella sekunnilla. Samoissa testeissä ajanut Michael Schumacher sanoi Eeckelaertille, että Räikkösessä on ajotyylin perusteella potentiaalia olla todella nopea."
+                }
+            ]
+        },
+        {
+            "title": "Länsimäen kirkko",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka monta istumapaikkaa kirkossa on?",
+                            "id": "ylurtp0lzj",
+                            "answers": [
+                                {
+                                    "text": "150",
+                                    "answer_start": 280
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Länsimäen kirkko on Vantaan Länsimäen kaupunginosassa sijaitseva, vuonna 1986 valmistunut kirkkorakennus. Se toimii Hakunilan seurakunnan pyhäkkönä. Punatiilinen rakennus valmistui alkujaan seurakuntataloksi. Sitä on kuitenkin kutsuttu kirkoksi alusta asti. Kirkon permannolla on 150 istumapaikkaa ja lisäksi urkuparvella on tilaa 80 hengelle."
+                }
+            ]
+        },
+        {
+            "title": "Lutetium",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka nopeasti lutetiummetalli reagoi kylmän veden kanssa?",
+                            "id": "jeget1ghr0",
+                            "answers": [
+                                {
+                                    "text": "hitaasti",
+                                    "answer_start": 506
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Lutetium liukenee helposti laimeisiinkin happoihin. Vetyfluoridin vesiliuoksiin se kuitenkin on liukenematonta, koska metallin pinnalle muodostuu liukenematon suojaava lutetiumfluoridin LuF3 kerros. Veteen liukenevat suolat, kuten lutetiumnitraatti, -sulfaatti ja -asetaatti muodostavat kidevedellisiä hydraatteja kiteytyessään. Lutetiumoksidi, -hydroksidi, -fluoridi, -karbonaatti, -fosfaatti ja -oksalaatti eivät liukene veteen. Lutetiumoksidi Lu2O3 on tärkein alkuaineen yhdiste. Lutetiummetalli tummuu hitaasti ilmassa lutetiumoksidiksi. Lutetiummetalli on sangen elektropositiivista ja reagoi hitaasti kylmän ja nopeasti kuuman veden kanssa muodostaen lutetiumhydroksidia Lu(OH)3 ja vetykaasua."
+                }
+            ]
+        },
+        {
+            "title": "Maailman kauppajärjestö",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkä järjestön maailman kauppajärjestö korvasi aloittaessaan toimintansa vuonna 1995?",
+                            "id": "9skdgigatj",
+                            "answers": [
+                                {
+                                    "text": "GATTin (General Agreement on Tariffs and Trade)",
+                                    "answer_start": 104
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuinka monta GATT-neuvottelukierrosta järjestettiin 1947-1994?",
+                            "id": "9tze5r5uqp",
+                            "answers": [
+                                {
+                                    "text": "kahdeksan",
+                                    "answer_start": 400
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Maailman kauppajärjestö aloitti toimintansa 1. tammikuuta 1995. Se korvasi vuodesta 1947 asti toimineen GATTin (General Agreement on Tariffs and Trade) ja on kaupankäynnin osalta tärkein kansainvälinen elin. GATT oli perustettu toisen maailmansodan jälkimainingeissa väliaikaiseksi 23 maan järjestelyksi, jossa oli mukana Yhdysvallat ja Länsi-Euroopan maita. Vuosina 1947–1994 järjestettiin yhteensä kahdeksan GATT-neuvottelukierrosta, joiden myötä järjestöön liittyi lisää valtioita. Suomi liittyi GATT:iin vuonna 1950."
+                }
+            ]
+        },
+        {
+            "title": "Morgan Uceny",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkälaista epäonnea Ucenyllä oli vuoden 2012 olympialaisten loppukilpailuissa?",
+                            "id": "gb7r3ocwbf",
+                            "answers": [
+                                {
+                                    "text": "hän kompastui viimeisen kierroksen alussa Ekaterina Kostetskayan jalkaan ja kaatui niin rajusti, että joutui keskeyttämään kilpailun",
+                                    "answer_start": 773
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Morgan Uceny (s. 10. maaliskuuta 1985) on yhdysvaltalainen keskimatkojen juoksija, jonka päämatka on 1500 metriä. Uceny voitti 1 500 metrin Timanttiliigan kokonaiskilpailun vuonna 2011. Hän voitti seitsemästä osakilpailusta kolme. Uceny juoksi 1 500 metrillä myös kauden 2011 kärkituloksen maailmassa 4.00,06. Se on myös hänen ennätyksensä. Uceny pääsi Daegun MM-kilpailujen loppukilpailuun 2011 ollen yksi kilpailun suosikeista, mutta kaatui ennen viimeisen kierroksen alkua, kun hän kompastui maahan kaatuneeseen Hellen Obiriin. Hän juoksi kuitenkin maaliin ollen alkuperäisissä tuloksissa kymmenes. Nataliya Tobiaksen kärähtäessä testosteronista nousi Uceny lopputuloksissa yhdeksänneksi. Lontoon olympialaisissa 2012 Ucenylla oli jälleen epäonnea loppukilpailussa, kun hän kompastui viimeisen kierroksen alussa Ekaterina Kostetskayan jalkaan ja kaatui niin rajusti, että joutui keskeyttämään kilpailun."
+                }
+            ]
+        },
+        {
+            "title": "Motilal Nehru",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mitä britit tekivät hänen osallistuttuaan Gandhin suolamarssiin ja kansalaistottelemattomuusliikkeeseen vuonna 1930?",
+                            "id": "uk9e1v2isq",
+                            "answers": [
+                                {
+                                    "text": "vangitsivat hänet",
+                                    "answer_start": 479
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Amritsarin verilöylyn jälkeen vuonna 1919 hän liittyi Mahatma Gandhin kansalaistottelemattomuusliikkeeseen. Vuonna 1921 britit pidättivät sekä Motilalin että hänen poikansa Jawaharlalin ja he olivat vangittuina kuusi kuukautta. Vuonna 1928 hän kirjoitti Kongressipuolueen raportin, joka oli perustuslakiluonnos tulevaisuuden itsenäiselle Intialle. Britit hylkäsivät ehdotuksen. Kun hän osallistui vuonna 1930 Gandhin suolamarssiin ja kansalaistottelemattomuusliikkeeseen, britit vangitsivat hänet. Motilal Nehru kuoli pian vapauttamisensa jälkeen vuonna 1931"
+                }
+            ]
+        },
+        {
+            "title": "Muiskula",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Missä maassa Muiskula sijaitsee?",
+                            "id": "p49kwv08hh",
+                            "answers": [
+                                {
+                                    "text": "Venäjällä",
+                                    "answer_start": 94
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Muiskula (ven. Мы́шкино, Myškino) on kylä Leningradin alueen Jaaman piirin Niisnovan kunnassa Venäjällä. Se sijaitsee Inkerin ylängön pohjoisreunalla neljä kilometriä Niisnovasta koilliseen. Kylässä on yhdeksän asukasta (vuonna 2010). Kaprion kihlakunnan Kargalin pogostaan kuulunut kylä mainitaan ensimmäisen kerran Vatjan viidenneksen verokirjassa vuonna 1500 nimellä Myšji Gorki. Ruotsalaisten vuosina 1618–1623 laatimassa maakirjassa se esiintyy muodossa Muischina Gora. Peter von Köppenin mukaan vuonna 1848 Muiskulassa asui 122 inkerikkoa, jotka kuuluivat Kaprion ortodoksiseen Kristuksen kirkastuksen kirkon seurakuntaan. Vuonna 1862 kylässä oli 22 taloa ja 110 asukasta. Paikalliset talonpojat olivat tilanomistajan maaorjia."
+                }
+            ]
+        },
+        {
+            "title": "Munkkivuoren yhteiskoulu",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Milloin Käpylän lukio ja Meilahden lukio yhdistyivät?",
+                            "id": "xfgcaqvkiz",
+                            "answers": [
+                                {
+                                    "text": "1999",
+                                    "answer_start": 823
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Munkkivuoren yhteiskoulu oli Helsingin Munkkivuoressa vuosina 1958–1979 toiminut yksityinen oppikoulu. Koulun oma rakennus valmistui Munkkivuoreen Raumantielle 1959–1960. Sen suunnitteli arkkitehti Toivo Korhonen. Koulua ylläpiti Munkkivuoren yhteiskoulun kannatusyhdistys ja sen rehtorina toimi koko olemassaolon ajan Jouko Haavisto. Koulu sai vuonna 1961 oikeuden antaa ylioppilastutkintoja. Munkkivuoren yhteiskoulu kunnallistettiin Helsingin kaupungille vuonna 1977 peruskoulu-uudistuksen seurauksena ja se jaettiin Munkkivuoren yläasteeseen ja lukioon, jotka molemmat toimivat vuoteen 1990. Munkkivuoren yläasteelle oppilaat tulivat Konalan, Pitäjänmäen ja Munkkivuoren ala-asteilta. Munkkivuoren lukio liitettiin Meilahden lukioon, joka puolestaan yhdistyi Käpylän lukion kanssa Helsingin luonnontiedelukioksi vuonna 1999"
+                }
+            ]
+        },
+        {
+            "title": "Obuhovin terästehdas",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mistä Aleksanteri II määräsi maa-alaa luovutettavaksi?",
+                            "id": "zqy72wx7pt",
+                            "answers": [
+                                {
+                                    "text": "entiseltä Keisarilliselta Aleksanterin manufaktuurilta",
+                                    "answer_start": 61
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kenen mukaan tehdas nimettiin?",
+                            "id": "x63cfl0uke",
+                            "answers": [
+                                {
+                                    "text": "Pavel Matvejevitš Obuhovin",
+                                    "answer_start": 208
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Aleksanteri II määräsi luovutettavaksi tarpeellisen maa-alan entiseltä Keisarilliselta Aleksanterin manufaktuurilta 12 virstaa Pietarista Nevan rannalta. Tehdas nimettiin aseteräksen valumenetelmän keksineen Pavel Matvejevitš Obuhovin mukaan, ja tehdas sai oikeudet menetelmän käyttämiseen. Tehtaan perustaminen oli tarpeen Krimin sodan tappion jälkeen armeijan kehittämiseksi ja ulkomaisen riippuvuuden vähentämiseksi"
+                }
+            ]
+        },
+        {
+            "title": "Orkneylaisten saaga",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kenen henkilön kirjoittama saagan arvellaan olevan?",
+                            "id": "yz7srcbplj",
+                            "answers": [
+                                {
+                                    "text": "Snorri Sturluson",
+                                    "answer_start": 74
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Saagan kirjoitti vuoden 1200 paikkeilla joku islantilainen, mahdollisesti Snorri Sturluson. Saaga sisältää sekä täysin tarunomaista ainesta että todellisten historiallisten tapahtumien kuvausta. Saaga alkaa mytologisella tai sepitteellisellä kuvauksella Norjan perustamisesta. Finnlandin ja Kvenlandin kuninkaan poika Nórr lähtee sotaretkelle, asettuu aloilleen ja perustaa Norjan. Sitten seuraa puoliksi myyttinen kertomus siitä, miten Norjan kuningas valtaa Orkneysaaret. Alkukappaleiden jälkeen esitellään tapahtumia ja ihmisiä, joiden historiallisuus vaihtelee. Orkneysaarilla tunnetaan nämä henkilöt myös kansanperinteessä."
+                }
+            ]
+        },
+        {
+            "title": "Outi Sané",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Missä yhtyeessä Outi soitti vuosina 1998-1999?",
+                            "id": "d84u89yjb1",
+                            "answers": [
+                                {
+                                    "text": "Piirpauke",
+                                    "answer_start": 292
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Outi Hannele Nieminen (ent. Sané s. 3. huhtikuuta 1971, Jämsänkoski) on suomalainen kanteleensoittaja ja kantelepedagogi. Nieminen oli pitkään naimisissa senegalilaisen muusikon, Ismaila Sanén kanssa. Outi Nieminen soitti Senfi-yhtyeessä 1999 - 2019. Aikaisemmin hän soitti vuosina 1998-1999 Piirpauke-yhtyeessä. Nieminen on opettanut kanteletta yli 30 vuotta. Pääsuunnittelijana ja kouluttajana hän on ollut yhdessä Ismaila Sanén kanssa mm. Opekon monikulttuurisessa musiikinopettajien ”Yhteinen sävel 1-3” -koulutuksissa 2004–2006 sekä ”Elävä Afrikka” -koulutuksessa 2006."
+                }
+            ]
+        },
+        {
+            "title": "Paharikielet",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Missä paharikieliä puhutaan?",
+                            "id": "qx6gvwrdml",
+                            "answers": [
+                                {
+                                    "text": "Nepalissa, Pohjois-Intiassa ja Pakistanissa",
+                                    "answer_start": 93
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Missä paharit asuvat?",
+                            "id": "y4lyk83tql",
+                            "answers": [
+                                {
+                                    "text": "Himalajan vuoristossa",
+                                    "answer_start": 517
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Paharikielet ovat indoarjalaisten kielten pohjoiseen ryhmään kuuluvia kieliä, joita puhutaan Nepalissa, Pohjois-Intiassa ja Pakistanissa. Paharikielet jaetaan itä-, keski- ja länsipahariin, ja garhwalin kieli luetaan niiden rinnalla omaksi ryhmäkseen. Itäpaharikielistä puhutuin on Nepalin pääkieli nepali. Keskipahariin kuuluu kumaonin kieli, ja länsipaharikieliä ovat muun muassa dogri, mandeali ja sirmauri. ”Pahari” (पहाड़ी, pahāṛī) on hindiä ja tarkoittaa vuoristolaista. Paharikieliä puhuva paharien kansa asuu Himalajan vuoristossa. Länsipaharikielistä käytetään myös nimitystä himatšali."
+                }
+            ]
+        },
+        {
+            "title": "Panteismi",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkälainen jumalan ajatellaan olevan panteismissa?",
+                            "id": "l8os9xtogn",
+                            "answers": [
+                                {
+                                    "text": "persoonaton ja ääretön",
+                                    "answer_start": 293
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Minkä nimisessä hindulaisesa koulukunnassa esiintyy panteistisia ajatuksia?",
+                            "id": "1w1ht7pze9",
+                            "answers": [
+                                {
+                                    "text": "Advaita Vedanta",
+                                    "answer_start": 427
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Panteismi (kreikan pan, ’kaikki’ ja theos, ’jumala’) on näkemys, jonka mukaan kaikkeus eli luonto on sama kuin jumala. Panteisti ei usko useisiin persoonallisiin jumaliin vaan yhteen jumalaan, joka on maailmankaikkeus ja sen aine, voimat ja luonnonlait. Panteismissa Jumalan ajatellaan olevan persoonaton ja ääretön, eikä jumalan lisäksi voi olla muuta todellisuutta. Panteistisia ajatuksia esiintyy esimerkiksi hindulaisuuden Advaita Vedanta -koulukunnassa, joissain kabbalistisen juutalaisuuden suuntauksissa, kelttiläisessä henkisyydessä ja suufimystiikassa."
+                }
+            ]
+        },
+        {
+            "title": "Pilleriviikuna",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miksei pilleriviikuna voi lisätä kotona saaduista siemenistä?",
+                            "id": "vifttd96qe",
+                            "answers": [
+                                {
+                                    "text": "se, kuten muutkin viikunat, tarvitsee pölyttäjäkseen oman viikunapistiäisensä",
+                                    "answer_start": 390
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Pilleriviikuna on sitkeä ja helppohoitoinen huonekasvi, ja yksi harvoista viikunalajeista, jotka tuottavat hedelmiä sisätiloissa. Hedelmät ovat pallomaisia, hieman hernettä suurempia. Ne ovat raakoina himmeän keltaiset, kypsinä oranssit ja punaiset, ja ne pysyvät pitkään kasvissa. Pilleriviikunaa voi lisätä pistokkaista, mutta kotona saaduista siemenistä sen lisääminen ei onnistu, sillä se, kuten muutkin viikunat, tarvitsee pölyttäjäkseen oman viikunapistiäisensä."
+                }
+            ]
+        },
+        {
+            "title": "Prayagrajin piirikunta",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mikä on piirikunnan pääkaupunki?",
+                            "id": "3rzsj49itn",
+                            "answers": [
+                                {
+                                    "text": "Prayagraj",
+                                    "answer_start": 328
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Intian vuoden 2011 väestönlaskennassa sen asukasluku oli 5 954 391 henkeä. Piirikunnan yleisin uskonto on hindulaisuus, jota tunnustaa noin 85 prosenttia väestöstä. Islaminuskoiset ovat suurin uskonnollinen vähemmistö 13 prosentilla, muiden uskonnollisten ryhmien jäsenosuuden jäädessä alle prosenttiin. Piirikunnan pääkaupunki Prayagraj on yksi hindujen pyhimmistä paikoista. Siellä järjestetään ajoittain suuri pyhiinvaellusjuhla Kumbh Mela."
+                }
+            ]
+        },
+        {
+            "title": "Rocky",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Missä Rocky Balboa asuu?",
+                            "id": "7s55j2o7s3",
+                            "answers": [
+                                {
+                                    "text": "Philadelphiassa",
+                                    "answer_start": 44
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Rocky Balboa (Sylvester Stallone) on köyhä, Philadelphiassa asuva lämminsydäminen nyrkkeilijä joka ei ole vielä tehnyt läpimurtoaan, vaikka on iältään jo lähes kolmekymmentävuotias. Nyrkkeilyn ohella hänen toinen työnsä on tehdä pieniä rahanperintäkeikkoja pienelle rikollispomolle, Gazzolle (Joe Spinelli). Rockyn paras ystävä on rääväsuinen Paulie Pennino (Burt Young). Rocky harjoittelee nyrkkeilyä Mickey Goldmillin (Burgess Meredith) ylläpitämällä nyrkkeilysalilla."
+                }
+            ]
+        },
+        {
+            "title": "Rocky",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Ketä vastaan Chuck Wepner otteli vuonna 1975?",
+                            "id": "kkv9rftmtt",
+                            "answers": [
+                                {
+                                    "text": "Muhammad Alin",
+                                    "answer_start": 62
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Stallone sai inspiraationsa Rockyn käsikirjoitukseen nähtyään Muhammad Alin ja haastaja Chuck Wepnerin välisen ottelun vuonna 1975. Wepner lähti otteluun suurena altavastaajana, mutta ylitti odotukset lyömällä Alin kanveesiin yhdeksännessä erässä. Ali voitti Wepnerin tyrmäyksellä viimeisessä erässä ja säilytti mestaruutensa."
+                }
+            ]
+        },
+        {
+            "title": "Sinebrychoff (suku)",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka kauan Nikolailla oli yksinoikeus oluen valmistukseen ja myyntiin?",
+                            "id": "qlgzui1b0z",
+                            "answers": [
+                                {
+                                    "text": "kymmeneksi vuodeksi",
+                                    "answer_start": 191
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kuka oli 1870-luvulla Helsingin verotetuin henkilö?",
+                            "id": "5psq0oxfq8",
+                            "answers": [
+                                {
+                                    "text": "Pavel Sinebrychoff",
+                                    "answer_start": 739
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Nikolai muutti Viaporin linnoitukseen vuonna 1817, jossa hänen liikkeensä myös silloin sijaitsi. Kaksi vuotta myöhemmin hänellä oli jo yksinoikeus oluen valmistukseen ja myyntiin Helsingissä kymmeneksi vuodeksi. Vuonna 1822 hän siirsi panimon Hietalahteen sekä laajensi liiketoimintaansa paloviinan tuottamiseen ja myyntiin. Nikolai kuoli vuonna 1848 lapsettomana ja naimattomana, jolloin hänen veljensä Pavel otti yrityksen hoitaakseen. Tämä moninkertaisti liikevaihdon laajentamalla toimintaa ja luomalla jälleenmyyntiverkoston. Ostamalla osakkeita Pavel kasvatti yrityksen omaisuutta ja rakennutti kiinteistöjä. Kiinteistöjen suunnittelussa hän käytti luottoarkkitehtiaan Theodor Höijeriä. Höijerin tunnetuin työ on Ateneumin rakennus. Pavel Sinebrychoff oli 1870-luvulla Helsingin verotetuin henkilö ja vaurain yrittäjä."
+                }
+            ]
+        },
+        {
+            "title": "Sinebrychoff (suku)",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuinka vanha Paul oli, kun hänen äitinsä kuoli?",
+                            "id": "3nx39rbsv5",
+                            "answers": [
+                                {
+                                    "text": "45-vuotias",
+                                    "answer_start": 27
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Äitinsä kuollessa Paul oli 45-vuotias, ja Fannykin yli 40-vuotias. He jo tiesivät pysyvänsä lapsettomina ja keskittyivät siten taiteen keräämiseen. Fannyn alaa olivat hopea, posliini ja pienoisveistokset, kun taas Paul keskittyi kuvataiteeseen. Perhe halusi talon eri huoneet sisustettavaksi eri tyylein, ja he valitsivat huoneisiin empireä, kustavilaisuutta sekä hollantilaista barokkia."
+                }
+            ]
+        },
+        {
+            "title": "Sinebrychoff (suku)",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miten Pavel kasvatti yrityksen omaisuutta?",
+                            "id": "myx444nlz1",
+                            "answers": [
+                                {
+                                    "text": "Ostamalla osakkeita",
+                                    "answer_start": 531
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Nikolai muutti Viaporin linnoitukseen vuonna 1817, jossa hänen liikkeensä myös silloin sijaitsi. Kaksi vuotta myöhemmin hänellä oli jo yksinoikeus oluen valmistukseen ja myyntiin Helsingissä kymmeneksi vuodeksi. Vuonna 1822 hän siirsi panimon Hietalahteen sekä laajensi liiketoimintaansa paloviinan tuottamiseen ja myyntiin. Nikolai kuoli vuonna 1848 lapsettomana ja naimattomana, jolloin hänen veljensä Pavel otti yrityksen hoitaakseen. Tämä moninkertaisti liikevaihdon laajentamalla toimintaa ja luomalla jälleenmyyntiverkoston. Ostamalla osakkeita Pavel kasvatti yrityksen omaisuutta ja rakennutti kiinteistöjä. Kiinteistöjen suunnittelussa hän käytti luottoarkkitehtiaan Theodor Höijeriä. Höijerin tunnetuin työ on Ateneumin rakennus. Pavel Sinebrychoff oli 1870-luvulla Helsingin verotetuin henkilö ja vaurain yrittäjä."
+                }
+            ]
+        },
+        {
+            "title": "Sinikiekkokala",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Millä tavalla virtaavissa joen osissa kiekkokalat elävät?",
+                            "id": "5bcw790pdw",
+                            "answers": [
+                                {
+                                    "text": "hitaasti",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Kiekkokalat elävät joen hitaasti virtaavissa osissa, missä on tyypillisesti puiden oksia ja juuria veden seassa. Sadekauden ja kuivan kauden vaihtelu vaikuttaa joen virtaamaan.[8] Ne pysyttelevät päiväsaikaan yleensä varjoisilla alueilla.[9] Joulukuussa alkavan sadekauden aikana alueella sataa yli 2000 mm vettä ja keväällä joet tulvivat. Silloin muulloin eristyksissä elävät kiekkokalapopulaatiot saattavat sekoittua keskenään. Kuivan kauden aikana keväästä lokakuuhun joen pinta laskee, ja kiekkoja saattaa jäädä eristyksiin pieniin lammikoihin.[10] Luonnossa kiekkoja tavataan sekä Amazonin ”mustasta”, ”valkeasta” että kirkkaasta vedestä. Mustan veden väri tulee orgaanisisita yhdisteistä, ja sitä jäljitelläkseen jotkut harrastajat käyttävät turvepohjaisia yhdisteitä muuttamassa akvaariovettä samankaltaisemmaksi."
+                }
+            ]
+        },
+        {
+            "title": "Sompasauna",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mihin sauna siirrettiin?",
+                            "id": "5py6b2knft",
+                            "answers": [
+                                {
+                                    "text": "Vanhankaupunginselän rantaan Hermanninrantaan",
+                                    "answer_start": 200
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Sompasauna sijaitsi miltei kymmenen vuotta Kruunuvuorenselän rannassa Sompasaaren eteläkärjessä. Nihdin työmaan ja siltahankkeiden laajentuessa sauna jouduttiin kuitenkin siirtämään uuteen sijaintiin Vanhankaupunginselän rantaan Hermanninrantaan kesäkuussa 2021. Uudesta sijainnista huolimatta nimi säilyy Sompasaunana. Verkkosaaren pohjoispuolella sijaitseva uusi saunapaikka on noin kymmenen minuutin kävelymatkan päässä Kalasataman metroasemalta."
+                }
+            ]
+        },
+        {
+            "title": "Suurhyökkäys Gibraltarilla 1782",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Ketä vastaan Ranska ja Espanja hyökkäsivät?",
+                            "id": "u2gc5wi6fq",
+                            "answers": [
+                                {
+                                    "text": "Yhdistyneen kuningaskunnan hallussaan pitämän Gibraltarin puolustajia",
+                                    "answer_start": 80
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Milloin hyökkäyksen oli määrä alkaa?",
+                            "id": "jja26yfpmv",
+                            "answers": [
+                                {
+                                    "text": "ranskalaisten ja espanjalaisten tuhottua brittien puolustukset",
+                                    "answer_start": 240
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Suurhyökkäys Gibraltarilla oli Ranskan ja Espanjan laivojen tekemä suurhyökkäys Yhdistyneen kuningaskunnan hallussaan pitämän Gibraltarin puolustajia vastaan 13. syyskuuta 1782 suuren piirityksen aikana. Suurhyökkäyksen oli tarkoitus alkaa ranskalaisten ja espanjalaisten tuhottua brittien puolustukset, mutta laivaston epäonnistuminen tässä tehtävässä esti maajoukkojen hyökkäyksen."
+                }
+            ]
+        },
+        {
+            "title": "Syyllisiäkö?",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Millainen elokucan yleisömenestys oli?",
+                            "id": "xpj4hnriuu",
+                            "answers": [
+                                {
+                                    "text": "keskitasoa heikompi",
+                                    "answer_start": 263
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Syyllisiäkö? on Jorma Nortimon ohjaama vuonna 1938 valmistunut suomalainen elokuva. Elokuva perustuu Toivo Pekkasen esikoisnäytelmään Sisarukset vuodelta 1933. Elokuvan ensi-ilta oli 25. syyskuuta 1938 Helsingissä Bio Rexissä ja myös Kotkassa. Yleisömenestys oli keskitasoa heikompi. Elokuvaa esitettiin myös Yhdysvaltain suomalaisalueilla. Syyllisiäkö? on psykologinen tragedia, jossa on nähtävissä antiikin murhenäytelmän sävyjä. Työläisperheen salaisuus paljastuu, kun tytär alkaa seurustella lehtorin kanssa. Paatokselliseksi melodraamaksi luonnehdittu Syyllisiäkö? on Nortimon esikoisohjaus, jonka kerronnassa kriitikko näkee selkeää elokuvallista kunnianhimoa. Kuvaus ja äänitys eivät kuitenkaan onnistu teknisesti täysin"
+                }
+            ]
+        },
+        {
+            "title": "Taiwanin kielet",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Miten Taiwanissa on perinteisesti suhtauduttu latinalaisten aakkosten käyttöön?",
+                            "id": "9k9xjuy0bv",
+                            "answers": [
+                                {
+                                    "text": "nuivasti",
+                                    "answer_start": 901
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Austronesialaisten kielten alkukodin katsotaan nykytiedon valossa olleen Taiwanin saari. Nykyään Taiwanissa katsotaan olevan 16 eri alkuperäiskansaa ja -kieltä, jotka jakautuvat vielä edelleen eri murteiksi.[ Monet nuoret eivät enää puhu alkuperäiskieliä kunnolla, mutta halu elvyttää kieliä on suuri. Alkuperäisväestö on joutunut sorron kohteeksi riippumatta siitä, kuka saarta hallitsee. Esimerkiksi 1960-luvulla Tšiang Kai-šek aloitti assimilaatiopolitiikan, jonka nojalla alkuperäisväestö määrättiin opettelemaan kiinaa. Vuonna 2016 presidentti Tsai Ing-wen pyysi virallisesti anteeksi.[ Vuonna 2017 maan hallitus päätti nostaa alkuperäiskielet kansalliskielen asemaan. Tämä tarkoittaa käytännössä valtion tukea alkuperäiskielten säilymiseen ja edistämiseen. Alkuperäiskieliä kirjoitetaan yhä enenevissä määrin latinalaisin aakkosin, vaikka Taiwanissa on perinteisesti suhtauduttu niiden käyttöön nuivasti."
+                }
+            ]
+        },
+        {
+            "title": "Taiwanin kielet",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkä verran Japanin kielen osaajien määrä on vähentynyt Taiwanissa?",
+                            "id": "r6k2vmwwyz",
+                            "answers": [
+                                {
+                                    "text": "huomattavasti",
+                                    "answer_start": 264
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Englantia puhutaan laajalti ja sitä opetetaan maan kouluissa. Ollessaan pääministeri William Lai teki vuonna 2018 ehdotuksen, jolla nostettaisiin englanti toiseksi viralliseksi kieleksi vuoteen 2019 mennessä. Japanin kielen osaajien määrä on vähentynyt Taiwanissa huomattavasti, kun englanti on korvannut sen ensisijaisena vieraana kielenä. Japanilaiset toivat kielensä saarelle, kun siitä tuli osa Japanin imperiumia 1890-luvulla. Aluksi japanilaiset tavoittelivat kaksikielistä yhteiskuntaa, jossa japani olisi kaikkien eri etnisten ryhmien lingua franca, mutta vuonna 1937 siirtomaahallinto muutti mieltään ja pyrki aktiivisesti hävittämään kaikki muut kielet saarelta. Vuonna 1943 viranomaiset arvioivat, että japania osasi 80 % koko väestöstä. Japanin antauduttua toisen maailmansodan päätteeksi merkittävä osa taiwanilaisista korkeakoulutetuista oli käytännössä lukutaidottomia, kun kiina korvasi japanin yhteiskunnan valtakielenä"
+                }
+            ]
+        },
+        {
+            "title": "Tölzer Knabenchor",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minkä ikäinen Knabenchor oli perustaessaan kuoron?",
+                            "id": "x4w6xlpu0d",
+                            "answers": [
+                                {
+                                    "text": "19-vuotiaana",
+                                    "answer_start": 110
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tölzer Knabenchor on saksalainen poikakuoro, jonka kotipaikka on Baijerin Bad Tölzin kaupunki. Kuoron perusti 19-vuotiaana vuonna 1956 sen nykyinen johtaja Gerhard Schmidt-Gaden. Tölzin poikakuoron ohjelmisto käsittää niin keskiajan kuin moderninkin vokaalimusiikin, kansanmusiikin, madrigaalit ja motetit, barokin ja klassisen kirkkomusiikin sekä sooloroolit ja oopperan lapsikuoroille."
+                }
+            ]
+        },
+        {
+            "title": "Tölzer Knabenchor",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Kuka kuoron perusti?",
+                            "id": "k0get8t63j",
+                            "answers": [
+                                {
+                                    "text": "Gerhard Schmidt-Gaden",
+                                    "answer_start": 156
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tölzer Knabenchor on saksalainen poikakuoro, jonka kotipaikka on Baijerin Bad Tölzin kaupunki. Kuoron perusti 19-vuotiaana vuonna 1956 sen nykyinen johtaja Gerhard Schmidt-Gaden. Tölzin poikakuoron ohjelmisto käsittää niin keskiajan kuin moderninkin vokaalimusiikin, kansanmusiikin, madrigaalit ja motetit, barokin ja klassisen kirkkomusiikin sekä sooloroolit ja oopperan lapsikuoroille."
+                }
+            ]
+        },
+        {
+            "title": "Tove Lo",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mikä on kolmannen studioalbumin nimi?",
+                            "id": "3r30me8f84",
+                            "answers": [
+                                {
+                                    "text": "Blue Lips",
+                                    "answer_start": 387
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Minkä yhtiön kanssa Tove Lolla on levytyssopimus?",
+                            "id": "0982n2atqy",
+                            "answers": [
+                                {
+                                    "text": "Universal Music -levy-yhtiön",
+                                    "answer_start": 268
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Tove Lo (oik. Ebba Tove Elsa Nilsson, s. 29. lokakuuta 1987 Tukholma, Ruotsi) on ruotsalainen laulaja ja lauluntekijä. Hän on julkaissut EP-levyn Truth Serum (2014) sekä kolme studioalbumia , joista ensimmäinen on Queen of the Clouds (2014). Hänellä on levytyssopimus Universal Music -levy-yhtiön kanssa. Toinen studioalbumi Lady Wood julkaistiin 28. lokakuuta 2016. Kolmas studioalbumi Blue Lips julkaistiin vuonna 2017. Neljännen studioalbuminsa Sunshine Kitty Tove Lo julkaisi 20. syyskuuta 2019"
+                }
+            ]
+        },
+        {
+            "title": "UKK-reitti",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Minä vuonna Kekkonen vaelsi reitin?",
+                            "id": "yv37dia5u6",
+                            "answers": [
+                                {
+                                    "text": "1957",
+                                    "answer_start": 380
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Kenen mukaan reitti on nimetty?",
+                            "id": "hc36kof8kr",
+                            "answers": [
+                                {
+                                    "text": "Urho Kaleva Kekkosen",
+                                    "answer_start": 96
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UKK-reitti eli UKK-vaellusreitti on valtakunnallinen vaellusreitti, joka on nimetty presidentti Urho Kaleva Kekkosen, innokkaan kuntoliikkujan ja liikunnan puolestapuhujan, mukaan. Reitti kulkee Pohjois-Karjalan, Kainuun, Pohjois-Pohjanmaan ja Lapin alueella. Sen päätepisteet ovat etelässä Lieksan Kolilla ja pohjoisessa Savukosken Tulppiossa. Urho Kekkonen vaelsi reitin vuonna 1957. Reitin kunto vaihtelee paikkakuntakohtaisesti. Reitti voi edetä tietä tai hyvää polkua pitkin, tai reitti voi näkyä pelkästään maalimerkintöinä puunrungoissa tai olla vain jälki kartalla."
+                }
+            ]
+        },
+        {
+            "title": "Volkswagen Beetle (A5)",
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mikä mallin nimi oli Italiassa?",
+                            "id": "d5eqy08p0f",
+                            "answers": [
+                                {
+                                    "text": "Maggiolino",
+                                    "answer_start": 281
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Mikä mallin nimi oli Ranskassa?",
+                            "id": "odro8bnp84",
+                            "answers": [
+                                {
+                                    "text": "Coccinelle",
+                                    "answer_start": 259
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Volkswagen Beetle (Typ 5C) on Volkswagenin vuosina 2011–2019 valmistama alemman keskiluokan henkilöautomalli, joka korvasi Volkswagen New Beetlen. Se perustuu samalle A5-pohjalevylle kuin esimerkiksi Volkswagen Golf VI. Ranskassa mallin nimenä oli Volkswagen Coccinelle, Italiassa Maggiolino ja Brasiliassa Fusca."
+                }
+            ]
+        }
+    ]
+}
